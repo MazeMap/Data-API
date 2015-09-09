@@ -8,6 +8,11 @@ This document describes version 1.0 of the "Publicly available MazeMap Data API"
 #####Disclaimer
 MazeMap AS reserve the right to make changes to the API and it's documentation any time in the future. Contact us for agreements of API maintentance for specific API versions.
 
+---
+
+#####Questions, issues or problems?
+If you have any issues, please contact us, by mail at support@mazemap.com or create an issue here in GitHub.
+
 
 ---
 
