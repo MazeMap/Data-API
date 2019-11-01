@@ -119,8 +119,8 @@ Example:
 
 ### <a name="building-model-properties"></a>1.1 Building model properties
 
-Property | description
---- | --- | ---
+Property | description 
+--- | --- 
 `id` | The MazeMap id of the building.
 `campusId` | The specific campusid the building belongs to
 `name` | The primary/default name of the building
@@ -133,7 +133,7 @@ Property | description
 ### <a name="floor-model-properties"></a>1.2 Floor model properties
 
 Property | description
---- | --- | ---
+--- | --- 
 `id` | The MazeMap id of the floor.
 `buildingId` | Reference to the id of the parent building for the floor
 `name` | The primary/default name of the floor
@@ -222,7 +222,7 @@ Example:
 ### <a name="flooroutline-model-properties"></a>2.1 FloorOutline model properties
 
 Property | description
---- | --- | ---
+--- | --- 
 `type` | The feature type, according to the GeoJSON standard.
 `id` | The MazeMap id of the floorOutline.
 `geometry` | A GeoJSON formatted geometry object. Mostly (but not limited to) Polygon or MultiPolygon.
@@ -364,7 +364,7 @@ Example:
 ### <a name="poi-model-properties"></a>3.4 POI model properties
 
 Property | description
---- | --- | ---
+--- | --- 
 `poiId` | The MazeMap id of the POI.
 `campusId` | The parent campus of the POI
 `title` | The primary/default name of the POI
