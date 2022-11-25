@@ -1,3 +1,8 @@
+# [DEPRECATED / OUTDATED] 
+Please refer to MazeMap Customer Success or Sales channels for newer documentation.
+[MazeMap Contact Page](https://www.mazemap.com/contact)
+---
+
 MazeMap Data API v1.0
 =====================
 
