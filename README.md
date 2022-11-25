@@ -1,5 +1,8 @@
-MazeMap Data API v1.0
+[DEPRECATED / OUTDATED] MazeMap Data API v1.0
 =====================
+Please refer to MazeMap Customer Success or Sales channels for newer documentation.
+
+---
 
 This document describes version 1.0 of the "Publicly available MazeMap Data API".
 
